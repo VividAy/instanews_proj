@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "instanews",
+            "cwd": "Users/ayandalmia/instanews",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "instanews (profile mode)",
+            "cwd": "Users/ayandalmia/instanews",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "instanews (release mode)",
+            "cwd": "Users/ayandalmia/instanews",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "unmain",
+            "cwd": "Users/ayandalmia/unmain",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "unmain (profile mode)",
+            "cwd": "Users/ayandalmia/unmain",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "unmain (release mode)",
+            "cwd": "Users/ayandalmia/unmain",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
